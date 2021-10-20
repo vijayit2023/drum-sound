@@ -1,1 +1,3 @@
-# drum-sound
+# Drum-Kit
+
+A Simple Drumkit App.
